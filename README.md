@@ -19,13 +19,13 @@ I am a Vietnamese student who currently following major Software Engineering at 
 <h1 align='left'><samp><strong>What I Use</strong></samp></h1>
 
 **Programming Languages:** <br><br>
-[![Programming Languages](https://skillicons.dev/icons?i=cs,js,ts,html,css)](https://github.com/VietDung922003)
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,html,css)](https://github.com/VietDung922003)
 
 **Frameworks and Technologies:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,pug)](https://github.com/VietDung922003)
 
 **Development Toolset:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=visualstudio,github,postman,supabase,babel)](https://github.com/VietDung922003)
+[![Frameworks](https://skillicons.dev/icons?i=vscode,github,postman,supabase,babel)](https://github.com/VietDung922003)
 
 **Database:**<br><br>
 [![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb)](https://github.com/VietDung922003)
